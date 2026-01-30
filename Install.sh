@@ -5,4 +5,9 @@ source ./wireguard.sh
 function requirements(){
     sudo pacman -S wireguard-tools
     wg_support = lsmod | grep wireguard > ~/Desktop/wg_support.txt
-    if [[  ]]
+    if [[ -z ${wg_support} ]];
+    then
+        echo "system doesn't support wireguard"
+        exit
+    else
+        
