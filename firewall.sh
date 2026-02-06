@@ -1,2 +1,6 @@
-sudo pacman -S nftables --noconfirmed
+sudo pacman -S --noconfirm nftables 
+
 #!/bin/nftables
+
+cd /etc/nftables
+
