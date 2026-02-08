@@ -1,6 +1,7 @@
 # Network-Hardening
 ---
-network-hardening for linux
+
+***Network-hardening for Arch based linux distro***
 
 ---
 
