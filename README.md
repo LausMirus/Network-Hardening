@@ -9,7 +9,7 @@
 
 ___
 
-Steps for Hardening :-
+**Steps for Hardening :-**
 
 1. Install WireGuard
 
