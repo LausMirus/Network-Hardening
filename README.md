@@ -33,13 +33,13 @@ Steps for Hardening :-
 
 ___
 
-__After these steps:
+__After these steps:__
 * All traffic is encrypted
 * No IP leaks
 * No DNS leaks
 * No direct internet access
 * Default-deny firewall
-* VPN enforced at system level__
+* VPN enforced at system level
 
 
 ___
