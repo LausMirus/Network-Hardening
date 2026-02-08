@@ -30,7 +30,7 @@ Steps for Hardening :-
 
 10. Monitor and test VPN enforcement
 
-___
+___*
 After these steps:
 * All traffic is encrypted
 * No IP leaks
@@ -38,7 +38,7 @@ After these steps:
 * No direct internet access
 * Default-deny firewall
 * VPN enforced at system level
-___
+___*
 
 ___
 
