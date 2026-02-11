@@ -44,3 +44,10 @@ __After these steps:__
 
 ___
 
+#### installation
+
+>  Prerequisite
+
+```sudo pacman -Syu```
+
+
