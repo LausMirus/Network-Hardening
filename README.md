@@ -50,4 +50,6 @@ ___
 
 ```sudo pacman -Syu && sudo pacman -Syyu```
 
+``` git clone https://github.com/LausMirus/Network-Hardening.git ```
+
 
