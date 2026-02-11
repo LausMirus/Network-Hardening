@@ -48,6 +48,6 @@ ___
 
 >  Prerequisite
 
-```sudo pacman -Syu```
+```sudo pacman -Syu && sudo pacman -Syyu```
 
 
