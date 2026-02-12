@@ -44,12 +44,19 @@ __After these steps:__
 
 ___
 
-## Installation
+
 
 >  Prerequisite
 
 ``` sudo pacman -Syu && sudo pacman -Syyu ```
 
+```sudo pacman -S net-tools nftables ```
+
+___
+
+## Installation
+
+
 ``` git clone https://github.com/LausMirus/Network-Hardening.git ```
 
-``` cd Network-Hardening ```
+``` cd Network-Hardening```
